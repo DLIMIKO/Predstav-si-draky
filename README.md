@@ -5,7 +5,7 @@ Tento repozitár zhromažďuje všetky užitočné, odskúšané a sem-tam aj z�
 
 ## 🧙‍♂️ Low-level čarodejníctvo
 - Bajtový karneval – alebo ako na bity v bajtoch,
-- [Pointery, lístočky na chladničke a Minotaurus](články/pointery.md)
+- [Pointery, lístočky na chladničke a Minotaurus](články/pointery/text.md)
 - Callbacky a kto ich volá? – tajomná komunikácia medzi funkciami,
 - Nepočítaj, všetko už je v lookup tabuľkách – predpovedaj budúcnosť?
 
